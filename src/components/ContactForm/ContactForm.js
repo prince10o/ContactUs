@@ -50,7 +50,7 @@ export const ContactForm = () => {
         </form>
       </div>
       <div className={styles.contact_image}>
-        <img src="/images/cntct.png"></img>
+        <img src="/images/cntct.png" alt="hey"></img>
       </div>
     </section>
   );
